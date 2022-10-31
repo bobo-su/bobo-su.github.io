@@ -1,0 +1,13 @@
+/*HTML元素*/
+table{
+    font-size:2rem;
+    background-color: #fce4c9;
+}
+/* CLASS */
+.req-cls{
+    background-color: #a8be67;
+}
+/* ID */
+#cls{
+    color: #0788ce;
+}
