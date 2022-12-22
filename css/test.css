@@ -1,0 +1,16 @@
+body{
+    background-color: #d4e3ac;
+}
+.ball{
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    background-color: #126281;
+    border-radius: 50%;
+    position: relative;
+    animation: ball 2s infinite;
+}
+@keyframes ball {
+    0%,100%{top: 0px}
+    50%{top: 100px}
+}
